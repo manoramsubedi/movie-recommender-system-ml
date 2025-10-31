@@ -8,3 +8,9 @@ venv/
 *.csv        
 *.pyc  
 
+movies.pkl
+movies_dick.pkl
+similarity.pkl
+tmdb_5000_credits
+tmdb_5000_movies
+
