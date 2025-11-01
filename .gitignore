@@ -1,16 +1,8 @@
-# Virtual environment
-venv/
-
-# Jupyter checkpoints
 .ipynb_checkpoints/
 
-*.pkl      
-*.csv        
-*.pyc  
-
-movies.pkl
 movies_dick.pkl
+movies.pkl
 similarity.pkl
-tmdb_5000_credits
-tmdb_5000_movies
 
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
