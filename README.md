@@ -11,7 +11,7 @@ It suggests movies similar to your favorite one and displays posters using TMDB 
 ---
 
 ## 🖼️ Screenshot
-![App Screenshot](https://github.com/manoramsubedi/movie-recommender-system-ml/assets/movie-ss.png)
+![App Screenshot](https://github.com/manoramsubedi/movie-recommender-system-ml/raw/main/assets/movie-ss.png)
 
 
 ---
